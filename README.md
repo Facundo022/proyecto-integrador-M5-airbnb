@@ -1,6 +1,5 @@
 # proyecto-integrador-M5-airbnb
 
-Consigna:
 
 ## AirBnB
 
