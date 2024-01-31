@@ -1,5 +1,6 @@
 # proyecto-integrador-M5-airbnb
 
+Consigna:
 
 ## AirBnB
 
@@ -25,5 +26,3 @@ En base al análisis descriptivo encontrar oportunidades de inversión que pueda
 | calendar.csv: (incluye datos de ocupación, precio, etc.)  
 | listings.csv: Detalle de cada operación de Listing (incluye datos descriptivos de la vivienda (ambientes, host, noches mínimas y máximas, cantidad de reviews)
 | reviews.csv Datos de review de los usuarios.
-
-
