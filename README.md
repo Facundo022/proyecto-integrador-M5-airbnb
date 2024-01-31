@@ -1,7 +1,5 @@
 # proyecto-integrador-M5-airbnb
 
-Consigna:
-
 ## AirBnB
 
 ![N|Solid](https://piernine.co/wp-content/uploads/elementor/thumbs/Airbnb-red-lrg-1080x675-1-ph818omam1mv695ypg24xjogcbkjrurf7dgvyjglnk.jpeg)
